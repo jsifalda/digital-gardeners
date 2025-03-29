@@ -159,6 +159,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
 | [Jacky Zhao](https://garden.jzhao.xyz) | [Quartz](https://quartz.jzhao.xyz) | Books, Cognitive Sciences, Education, Technology, and whatever else I happen to be reading |
+| [Craft Engineer](https://craftengineer.com) | Obsidian + Jekyll | Software engineering, DevOps, AI, productivity |
 
 ## Other digital garden compilations:
 
@@ -166,4 +167,4 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 * [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
-
+* [Obsidian Gallery](https://obsidian-gallery.craftengineer.com)
